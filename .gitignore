@@ -5,3 +5,5 @@
 *.orig
 *.suo
 Thumbs.db
+*.user
+*/.vs/*
